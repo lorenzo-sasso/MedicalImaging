@@ -1,1 +1,4 @@
-# MedicalImaging
+# Medical Imaging & Lung cancer
+Negli ultimi anni l'imaging medico digitale è diventato parte integrante della radiologia.
+L’obiettivo è quello di aiutare il radiologo a migliorare l'accuratezza diagnostica e monitorare la progressione delle malattie. Grazie all’imaging medico si possono svolgere diversi compiti a supporto del radiologo, si può ad esempio migliorare la qualità delle immagini modificando i parametri di luminosità colore e contrasto, è possibile alterare e ricostruire le immagini e la cosa più interessante è la possibilità di localizzare una regione di interesse (ROI) per aiutare il radiologo a individuare velocemente eventuali anomalie.
+E' stato sviluppo un tool di supporto al radiologo che a partire dalle immagini TAC, lo aiuti a segmentare una lesione polmonare attraverso un filtro a soglia e a classificare il tumore in solido o sub-solido.
